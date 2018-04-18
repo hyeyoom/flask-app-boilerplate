@@ -1,0 +1,6 @@
+flask >= 0.12.2
+flask-script >= 0.4.0
+flask-login >= 0.4.1
+flask-sqlalchemy >= 2.3.2
+flask-debugtoolbar >= 0.10.1
+sqlalchemy-utils >= 0.33.2

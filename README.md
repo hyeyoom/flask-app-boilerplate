@@ -12,7 +12,7 @@ $ python manage.py dev
 execute flask app for production
 
 ```bash
-$ pythonmanage.py prod
+$ python manage.py prod
 ```
 
 ## features
